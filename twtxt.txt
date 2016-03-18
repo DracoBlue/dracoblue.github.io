@@ -1,5 +1,4 @@
 2016-03-18T19:17:38.113Z	/nick dracoblue
 2016-03-18T19:17:38.113Z	/twturl https://dracoblue.github.io/twtxt.txt
-2016-03-18T19:17:38.113Z	/follow buckket https://buckket.org/twtxt.txt
 2016-03-18T19:37:58.666Z	/follow dracoblue https://dracoblue.net/twtxt.txt
 2016-03-18T19:38:45.718Z	/follow mdom https://mdom.github.io/twtxt.txt
