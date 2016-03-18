@@ -6,3 +6,4 @@
 
 2016-03-18T21:04:25.074Z	/follow mdom https://mdom.github.io/twtxt.txt
 2016-03-18T21:04:43.974Z	Hi @dracoblue! This is a mentions test./cc <@mdom https://mdom.github.io/twtxt.txt>
+2016-03-18T21:09:18.799Z	Hi  <@dracoblue https://dracoblue.net/twtxt.txt> ! This is a mentions test./cc  <@mdom https://mdom.github.io/twtxt.txt> 
