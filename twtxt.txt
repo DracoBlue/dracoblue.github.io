@@ -52,3 +52,5 @@
 2016-03-17T09:21:21+01:00	@<reednj_tw http://twtxt.reednj.com/t/reednj/twtxt.txt> yep. Etag + If-None-Match is way better, because it usually works with md5 on the content. https://en.wikipedia.org/wiki/HTTP_ETag /cc @<buckket https://buckket.org/twtxt.txt>
 2016-03-17T09:27:00+01:00	@<mdom https://mdom.github.io/twtxt.txt> do you really need a second config file? Can't you use an own [txtnix] section in twtxt's config file? http://twtxt.readthedocs.org/en/latest/user/configuration.html#configuration
 2016-03-17T13:19:37+01:00	@<reednj http://reednj.com/reednj.twtxt.txt> manually ;). I thought about it, but since the usernames can be different I droped that idea.
+
+2016-03-18T21:15:12.184Z	/follow mdom https://mdom.github.io/twtxt.txt
