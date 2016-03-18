@@ -56,3 +56,4 @@
 2016-03-18T21:15:12.184Z	/follow mdom https://mdom.github.io/twtxt.txt
 2016-03-18T21:15:21.902Z	/follow buckket https://buckket.org/twtxt.txt
 2016-03-18T21:15:40.239Z	/follow david http://post.aldebaran.uberspace.de/twtxt/david.txt
+2016-03-18T21:15:54.124Z	/follow erlehmann http://daten.dieweltistgarnichtso.net/tmp/docs/twtxt
