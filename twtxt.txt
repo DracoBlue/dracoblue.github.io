@@ -58,3 +58,4 @@
 2016-03-18T21:15:40.239Z	/follow david http://post.aldebaran.uberspace.de/twtxt/david.txt
 2016-03-18T21:15:54.124Z	/follow erlehmann http://daten.dieweltistgarnichtso.net/tmp/docs/twtxt
 2016-03-18T21:16:03.968Z	/follow horsemans http://horsemans.co/horsemans.txt
+2016-03-18T21:16:11.475Z	/follow kas https://enotty.dk/twtxt.txt
