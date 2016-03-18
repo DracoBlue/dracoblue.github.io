@@ -1,8 +1,54 @@
 2016-03-18T19:17:38.113Z	/nick dracoblue
-2016-03-18T19:17:38.113Z	/twturl https://dracoblue.github.io/twtxt.txt
-2016-03-18T19:17:38.113Z	/follow buckket https://buckket.org/twtxt.txt
-2016-03-18T19:37:58.666Z	/follow dracoblue https://dracoblue.net/twtxt.txt
-2016-03-18T19:38:45.718Z	/follow mdom https://mdom.github.io/twtxt.txt
-
-2016-03-18T21:04:25.074Z	/follow mdom https://mdom.github.io/twtxt.txt
-2016-03-18T21:09:48.696Z	Hi <@dracoblue https://dracoblue.net/twtxt.txt>! This is a mentions test./cc <@mdom https://mdom.github.io/twtxt.txt>
+2016-03-18T19:17:38.113Z	/twturl https://dracoblue.net/twtxt.txt
+2016-02-07T17:36:12.000+01:00	RT @icecrime: We're happy to announce the birth of @Docker Engine 1.10. It weighs 358797 LoC, and makes its 209 parents proud. https://t.co…
+2016-02-07T14:32:16.000+01:00	RT @lhtdesignde: having some fun with dashing.io and #raspberry hacking. great framework. #dashingio https://t.co/Bszu8V4mQw
+2016-02-07T14:30:47.000+01:00	RT @brucel: &lt;iframe seamless&gt; removed from HTML.  How to solve problem of setting the height of iframes? Proposal: https://t.co/7h7sk5eHmB
+2016-02-07T12:06:59.000+01:00	RT @wnd_go: They’re here. Oh god! They’ve found you!  Run: @wnd_run Hide: @wnd_hide
+2016-02-07T11:40:29.000+01:00	RT @newsycombinator: GitHub is undergoing a full-blown overhaul as execs and employees depart https://t.co/x3sesNCqBv
+2016-02-07T11:35:18.000+01:00	RT @SaraSoueidan: 'Outline: 1px solid red;' is still my fave and most effective #CSS layout troubleshooting trick. 💯😁
+2016-02-07T11:33:59.000+01:00	RT @tldrwikipedia: Twitter. #RIPTwitter https://t.co/2t8X8aRUv8
+2016-02-06T22:32:02.000+01:00	@erlehmann is messing with timestamps in @buckket #twtxt :)
+2016-02-06T14:05:27.000+01:00	RT @Forbes: “What is your number one secret to productivity?” 200 successful people give their answers: https://t.co/zfkB39UvdZ https://t.c…
+2016-02-06T13:14:18.000+01:00	Simple nodejs script to convert your twitter timeline to twtxt: https://t.co/txnWsC5jvA ( find my #twtxt at https://t.co/uN1KDXwJ8B )
+2016-02-06T11:48:23.000+01:00	RT @hackernewsbot: Show HN: Twtxt – Decentralised, minimalist microblogging service for hackers... https://t.co/QetAUkvYZI
+2016-02-06T08:56:26.000+01:00	RT @Real_CSS_Tricks: This is _good_ advice for making good slides of any kind:  https://t.co/DcWwJIA1Zb by @ilikevests
+2016-01-31T23:14:55.000+01:00	"Local Elasticsearch Cluster Status = RED" https://t.co/WZumSoKQwj
+2016-01-31T18:58:18.000+01:00	RT @9GAG: Physical Address https://t.co/5QwW3vVx4G https://t.co/FAbL5t36Sw
+2016-01-31T12:18:59.000+01:00	RT @dret: great to see the #AS2 work now also covering the protocol side of things: hello #ActivityPub! https://t.co/kRq9Vu7Pos #REST #IoT …
+2016-01-31T11:19:08.000+01:00	"How to automatically upload Snapshots and Releases to @sonatype_ossrh with @travisci" https://t.co/AiV0PfTWAl
+2016-01-24T17:08:07.000+01:00	RT @dret: "preload" https://t.co/z8b3fvB0IQ has been added to the @theiana link relation type registry. https://t.co/z8b3fvB0IQ #REST #HTML…
+2016-01-23T21:34:45.000+01:00	RT @bitfield: As a child of the digital age, nothing pleases me more than grabbing my trusty slide rule for a quick calculation. https://t.…
+2016-01-22T14:23:20.000+01:00	RT @iamdevloper: If you’d like to test your dev team’s collaboration skills, lock them in a room with no internet and ask them to configure…
+2016-01-18T07:13:46.000+01:00	RT @sean_a_cassidy: LostPass: Pixel-perfect LastPass Phishing https://t.co/ncUg38f1aX
+2016-02-08T23:51:47+01:00	@<buckket https://buckket.org/twtxt.txt> looks nice ;)
+2016-02-09T13:57:59+01:00	@<buckket https://buckket.org/twtxt.txt> something like https://gitter.im/ or a freenode channel?
+2016-02-11T15:10:00+01:00	working on a web-ui for twtxt (preview at https://web.twtxt.org/ )
+2016-02-12T17:47:18+01:00	Hey @<reednj http://reednj.com/reednj.twtxt.txt> and @<xena https://xena.greedo.xeserv.us/files/xena.txt>! do you want to work on an effort to streamline #twtxt registry apis? My proposal: https://github.com/DracoBlue/twtxt-registry
+2016-02-12T17:54:58+01:00	@<kas https://enotty.dk/twtxt.txt> I implemented a proposal for such api here https://github.com/DracoBlue/twtxt-registry. Example response is: https://registry.twtxt.org/api/plain/users
+2016-02-12T18:13:32+01:00	@<buckket https://buckket.org/twtxt.txt> cool
+2016-02-12T20:37:51+01:00	@<kas https://enotty.dk/twtxt.txt> that's the server for https://web.twtxt.org - will add proper User-Agent-String + Modified+Since soon. Fetches every minute if users are using it. Load is ok? /cc @<quite https://lublin.se/twtxt.txt>
+2016-02-12T20:53:15+01:00	added mentions-support by querying registry.twtxt.org to https://web.twtxt.org/
+2016-02-12T20:53:31+01:00	You have to use javascript:fetcher.login('https://example.org/twtxt') to login. I will add UI for that later.
+2016-02-12T20:54:37+01:00	@<xena https://xena.greedo.xeserv.us/files/xena.txt> happens ;)
+2016-02-12T20:58:05+01:00	@<xena https://xena.greedo.xeserv.us/files/xena.txt> @<twtxtlist https://twtxtlist.cf/twtxt.txt> I guess there is something wrong with the time at your side. It tweets as '2016-02-13T03:28:46+00:00' but, it's still 2016/12/02 http://www.timeanddate.com/worldclock/timezone/utc
+2016-02-12T23:57:17+01:00	@<kas https://enotty.dk/twtxt.txt> I added memcached and user agent to my registry, so you should see some 304 now from me!
+2016-02-14T10:48:39+01:00	Created nice API-Doc with "Try it out!"-forms for the registry api at https://registry.twtxt.org/swagger-ui/
+2016-02-14T21:30:30+01:00	@<kas https://enotty.dk/twtxt.txt> thank you!
+2016-02-16T20:49:29+01:00	yep! nice ;)
+2016-02-16T21:10:03+01:00	@<reednj http://reednj.com/reednj.twtxt.txt> please upgrade your client, to have proper mentions in your tweets ;)
+2016-02-16T21:11:30+01:00	@<reednj http://reednj.com/reednj.twtxt.txt> the .txt files look good. Can you provide the mentions also by url? Ideally with /api/plain/mentions like described at http://twtxt.readthedocs.org/en/latest/user/registry.html#query-for-mentions
+2016-03-13T21:24:20+01:00	/nick dracoblue
+2016-03-13T21:25:01+01:00	/twturl https://dracoblue.net/twtxt.txt
+2016-03-13T21:26:07+01:00	/me is testing the proposed format of meta data in https://github.com/buckket/twtxt/issues/48
+2016-03-13T21:42:54+01:00	@<buckket https://buckket.org/twtxt.txt> yep ;). I think the ideas in #48 are already quite good!
+2016-03-13T22:39:10+01:00	@<mdom https://mdom.github.io/twtxt.txt> I am working on the same thing for https://web.twtxt.org right now, too! :)
+2016-03-13T23:00:18+01:00	/me added /me support to https://web.twtxt.org
+2016-03-14T14:17:21+01:00	@<kdave https://kdave.github.io/twtxt.txt> I don't think, it's necessary to merge http+https. People can add themself only with https. /cc @<david http://post.aldebaran.uberspace.de/twtxt/david.txt>
+2016-03-14T14:21:50+01:00	@<kdave https://kdave.github.io/twtxt.txt> https://web.twtxt.org/ works with localstorage already in the browser. (for following users)
+2016-03-14T14:28:35+01:00	@<kdave https://kdave.github.io/twtxt.txt> ah .. missread your message. What alternative way would you use for the web version? I would like to store the info within a config file, too. E.g. the twtxt.txt itself as meta data.
+2016-03-14T14:48:53+01:00	@<kdave https://kdave.github.io/twtxt.txt> does the localstorage version not work in your fav. browser?
+2016-03-15T09:46:26+01:00	@<kdave https://kdave.github.io/twtxt.txt> I can see if I can create a version, which tries to store the info, and falls back to cookies or no storage at all.
+2016-03-15T10:13:06+01:00	@<kdave https://kdave.github.io/twtxt.txt> do you want a subdomain of twtxt.org?
+2016-03-17T09:21:21+01:00	@<reednj_tw http://twtxt.reednj.com/t/reednj/twtxt.txt> yep. Etag + If-None-Match is way better, because it usually works with md5 on the content. https://en.wikipedia.org/wiki/HTTP_ETag /cc @<buckket https://buckket.org/twtxt.txt>
+2016-03-17T09:27:00+01:00	@<mdom https://mdom.github.io/twtxt.txt> do you really need a second config file? Can't you use an own [txtnix] section in twtxt's config file? http://twtxt.readthedocs.org/en/latest/user/configuration.html#configuration
+2016-03-17T13:19:37+01:00	@<reednj http://reednj.com/reednj.twtxt.txt> manually ;). I thought about it, but since the usernames can be different I droped that idea.
