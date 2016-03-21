@@ -73,3 +73,4 @@
 2016-03-21T12:52:28.216Z	@<mdom https://mdom.github.io/twtxt.txt> sounds great. I would really like to add it to registry.twtxt.org, too! Can you create a PR for https://github.com/buckket/twtxt/blob/master/docs/user/registry.rst and add documentation for this?
 2016-03-21T13:20:12.076Z	From now on https://web.twtxt.org will only deliver the latest 20 twtxt messages (/user) to save bandwith. 304 Not Modified via E-Tag is also supported.
 2016-03-21T19:48:54.044Z	@<kas https://enotty.dk/twtxt.txt> ok :(. Will do when back at PC. What is the problem?
+2016-03-21T19:49:49.469Z	@<mdom https://mdom.github.io/twtxt.txt> I meant the websocket part
