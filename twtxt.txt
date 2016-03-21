@@ -69,3 +69,5 @@
 2016-03-18T21:44:59.841Z	/follow dracoblue https://dracoblue.net/twtxt.txt
 2016-03-18T21:53:51.347Z	/follow twet https://lublin.se/twet.txt
 2016-03-18T21:57:07.597Z	@<mdom https://mdom.github.io/twtxt.txt> looks nice!
+
+2016-03-21T12:52:28.216Z	@<mdom https://mdom.github.io/twtxt.txt> sounds great. I would really like to add it to registry.twtxt.org, too! Can you create a PR for https://github.com/buckket/twtxt/blob/master/docs/user/registry.rst and add documentation for this?
