@@ -77,3 +77,4 @@
 2016-03-21T19:51:11.130Z	About referencing tweets: how about md5(TWTURL\tTIMESTAMP\ttxt) as "id" of the tweet?
 2016-03-21T19:54:38.501Z	@<kas https://enotty.dk/twtxt.txt> wtf. what's wrong? I will remove them now.
 2016-03-21T20:09:37.726Z	@<kas https://enotty.dk/twtxt.txt> ok, I disabled it. will work on a fix tomorrow. sorry for the issues. :(
+2016-03-21T20:11:15.036Z	@<kas https://enotty.dk/twtxt.txt> btw. 37.120.16.189 is not my ip ;)
