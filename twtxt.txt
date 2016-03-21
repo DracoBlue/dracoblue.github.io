@@ -78,3 +78,4 @@
 2016-03-21T19:54:38.501Z	@<kas https://enotty.dk/twtxt.txt> wtf. what's wrong? I will remove them now.
 2016-03-21T20:09:37.726Z	@<kas https://enotty.dk/twtxt.txt> ok, I disabled it. will work on a fix tomorrow. sorry for the issues. :(
 2016-03-21T20:11:15.036Z	@<kas https://enotty.dk/twtxt.txt> btw. 37.120.16.189 is not my ip ;)
+2016-03-21T22:52:54.085Z	@<kas https://enotty.dk/twtxt.txt> Is fetching every 10 minutes for the registry and the webclients ok? Maybe we need something like "/changefreq hourly" as meta data for registries/clients.
