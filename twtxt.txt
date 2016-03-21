@@ -75,3 +75,4 @@
 2016-03-21T19:48:54.044Z	@<kas https://enotty.dk/twtxt.txt> ok :(. Will do when back at PC. What is the problem?
 2016-03-21T19:49:49.469Z	@<mdom https://mdom.github.io/twtxt.txt> I meant the websocket part
 2016-03-21T19:51:11.130Z	About referencing tweets: how about md5(TWTURL\tTIMESTAMP\ttxt) as "id" of the tweet?
+2016-03-21T19:54:38.501Z	@<kas https://enotty.dk/twtxt.txt> wtf. what's wrong? I will remove them now.
