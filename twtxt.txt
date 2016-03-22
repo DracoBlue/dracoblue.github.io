@@ -81,3 +81,4 @@
 2016-03-21T22:52:54.085Z	@<kas https://enotty.dk/twtxt.txt> Is fetching every 10 minutes for the registry and the webclients ok? Maybe we need something like "/changefreq hourly" as meta data for registries/clients.
 2016-03-21T23:02:23.442Z	@<kas https://enotty.dk/twtxt.txt> I changed it to 100 times a day with https://github.com/DracoBlue/twtxt-registry/commit/8cb58f8a37ad51bbfb56bd6e7235bfd092aae0ba ? Is that ok for you?
 2016-03-22T00:02:40.690Z	@<kas https://enotty.dk/twtxt.txt> I updated the registry to interpret the robots.txt (your entries won't be indexed anymore) + the Crawl-Delay directive of robots.txt https://en.wikipedia.org/wiki/Robots_exclusion_standard#Crawl-delay_directive
+2016-03-22T12:44:38.079Z	@<kas https://enotty.dk/twtxt.txt> will you whitelist twtxt-ui/registry in your robots.txt again?
