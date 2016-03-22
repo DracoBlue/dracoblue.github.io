@@ -82,3 +82,4 @@
 2016-03-21T23:02:23.442Z	@<kas https://enotty.dk/twtxt.txt> I changed it to 100 times a day with https://github.com/DracoBlue/twtxt-registry/commit/8cb58f8a37ad51bbfb56bd6e7235bfd092aae0ba ? Is that ok for you?
 2016-03-22T00:02:40.690Z	@<kas https://enotty.dk/twtxt.txt> I updated the registry to interpret the robots.txt (your entries won't be indexed anymore) + the Crawl-Delay directive of robots.txt https://en.wikipedia.org/wiki/Robots_exclusion_standard#Crawl-delay_directive
 2016-03-22T12:44:38.079Z	@<kas https://enotty.dk/twtxt.txt> will you whitelist twtxt-ui/registry in your robots.txt again?
+2016-03-22T16:56:47.646Z	@<mdom https://mdom.github.io/twtxt.txt> I would like to implement server and client, too ;). Since it somehow fixes the nervous polling, which https://web.twtxt.org does.
