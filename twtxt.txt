@@ -84,3 +84,4 @@
 2016-03-22T12:44:38.079Z	@<kas https://enotty.dk/twtxt.txt> will you whitelist twtxt-ui/registry in your robots.txt again?
 2016-03-22T16:56:47.646Z	@<mdom https://mdom.github.io/twtxt.txt> I would like to implement server and client, too ;). Since it somehow fixes the nervous polling, which https://web.twtxt.org does.
 2016-03-23T21:40:40.760Z	There is a nice paper on PULL or PUSH when it comes to scaling a justin bieber twitter account. http://research.yahoo.com/pub/3203 In this special case, twtxt's design is actually good! #scalability #twtxt
+2016-03-23T21:42:41.631Z	I think twtxt scales pretty decent by using HTTP Features like Cache-Control. #scalability #twtxt
