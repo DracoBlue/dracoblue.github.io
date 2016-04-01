@@ -86,4 +86,3 @@
 2016-03-23T21:40:40.760Z	There is a nice paper on PULL or PUSH when it comes to scaling a justin bieber twitter account. http://research.yahoo.com/pub/3203 In this special case, twtxt's design is actually good! #scalability #twtxt
 2016-03-23T21:42:41.631Z	I think twtxt scales pretty decent by using HTTP Features like Cache-Control. #scalability #twtxt
 2016-03-23T21:44:35.065Z	@<mdom https://mdom.github.io/twtxt.txt> do you create 40mb traffic with 304 Not modified responses or do you fetch the entire resource?
-2016-04-01T08:31:57.984Z	/follow wp http://whiteplastic.net/twtxt.txt
